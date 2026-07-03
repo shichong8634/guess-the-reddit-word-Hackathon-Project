@@ -28,7 +28,8 @@
 * Yellow: correct letter but wrong position
 * Gray: letter not in the word
 
- Web App: https://guess-the-reddit-word-competition-e.vercel.app/ (Due to some uncontrollable reasons (such as the internet), I may not be able to complete the Reddit app. So I created a web app for testers to use.)
+ Web App: https://guess-the-reddit-word-competition-e.vercel.app/ 
+ (Due to network restrictions in my current location, I was unable to fully deploy the project as a Devvit app.To demonstrate the gameplay and core functionality, I created a web-based version that testers can access and evaluate.)
 
 ## Author
 ﻿
