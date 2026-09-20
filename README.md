@@ -33,6 +33,8 @@
 
  YouTube video demonstration link: https://www.youtube.com/watch?v=L6K4hlLhaIA&list=PLLP3UMkEnN5E&index=3
 
+ You can also view the detailed content of the project I submitted on the devpost official website, which can be found at: https://devpost.com/software/guess-the-reddit-word
+
 ## Author
 ﻿
 Yunlong Wang
